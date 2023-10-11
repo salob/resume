@@ -1,27 +1,28 @@
 # Jobs
 # DevOps Team and Tech Lead
 - company: Merative
-  position: DevOps Team and Technical Lead
-  duration: Oct, 2022 &mdash; Present
-  summary: |
-    Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product for both on-prem and cloud. Notable Projects...
-    <ul class="resume-item-list">
-    <li>Infrastructure set up on Azure - resource groups, vpn, vnets, app gateway, Virtual Machines, AKS, ARO.</li>
-    <li>Test Execution Framework that runs junit tests in parallel via Kubernetes. Incorporating Kafka and Tekton.</li>
-    <li>RTC migration to Git / GitHub + JIRA</li>
-    <li>Zenhub migration to GitHub Projects</li>
-    <li>Travis CI to Github Workflows (Actions)</li>
-    </ul>
+  roles:
+  - position: DevOps Team and Technical Lead
+    duration: Oct, 2022 &mdash; Present
+    summary: |
+      Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product for both on-prem and cloud. Notable Projects...
+      <ul class="resume-item-list">
+      <li>Infrastructure set up on Azure - resource groups, vpn, vnets, app gateway, Virtual Machines, AKS, ARO.</li>
+      <li>Test Execution Framework that runs junit tests in parallel via Kubernetes. Incorporating Kafka and Tekton.</li>
+      <li>RTC migration to Git / GitHub + JIRA</li>
+      <li>Zenhub migration to GitHub Projects</li>
+      <li>Travis CI to Github Workflows (Actions)</li>
+      </ul>
 
 # DevOps Team Lead
 - company: IBM
-  position: DevOps Team Lead
-  duration:  Jan, 2019 &mdash; Oct, 2022
-  summary: Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product.
-
-  position: DevOps Engineer
-  duration:  Jul, 2014 &mdash; Jan, 2019
-  summary: Designed, implemented, maintained CI/CD pipelines and infrastructure as code. Tools / technologies used included Chef, Jenkins (Declarative Pipeline scripting), Docker, Source Code Migration ClearCase -> RTC), VM Maintenance & Compliance, RTC, ClearCase, Automation and scripting (Python,Groovy,Bash,Batch,Powershell), Developer support, Linux, Windows, macOS
+  roles:
+  - position: DevOps Team Lead
+    duration:  Jan, 2019 &mdash; Oct, 2022
+    summary: Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product.
+  - position: DevOps Engineer
+    duration:  Jul, 2014 &mdash; Jan, 2019
+    summary: Designed, implemented, maintained CI/CD pipelines and infrastructure as code. Tools / technologies used included Chef, Jenkins (Declarative Pipeline scripting), Docker, Source Code Migration ClearCase -> RTC), VM Maintenance & Compliance, RTC, ClearCase, Automation and scripting (Python,Groovy,Bash,Batch,Powershell), Developer support, Linux, Windows, macOS
 
 # WebDev & Lab Demonstrator
 - company: Maynooth University
