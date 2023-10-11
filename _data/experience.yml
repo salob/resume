@@ -3,7 +3,7 @@
 - company: Merative
   position: DevOps Team and Technical Lead
   duration: Oct, 2022 &mdash; Present
-  summary: "Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product for both on-prem and cloud. Notable Projects:"
+  summary: Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product for both on-prem and cloud. Notable Projects...
   <ul class="resume-item-list">
     <li>Set up our infrastructure on Azure - resource groups, vpn, vnets, app gateway, Virtual Machines, AKS, ARO.</li>
     <li>Test Execution Framework that runs junit tests in parallel via Kubernetes. Incorporating Kafka and Tekton.</li>
