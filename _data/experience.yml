@@ -1,15 +1,22 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# DevOps Team and Tech Lead
+- company: Merative
+  position: DevOps Team and Technical Lead
+  duration: Oct, 2022 &mdash; Present
+  summary: "Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product for both on-prem and cloud. Notable Projects:"
+  <ul class="resume-item-list">
+    <li>Set up our infrastructure on Azure - resource groups, vpn, vnets, app gateway, Virtual Machines, AKS, ARO.</li>
+    <li>Test Execution Framework that runs junit tests in parallel via Kubernetes. Incorporating Kafka and Tekton.</li>
+    <li>RTC migration to Git / GitHub + JIRA</li>
+    <li>Zenhub migration to GitHub Projects</li>
+    <li>Travis CI to Github Workflows (Actions)</li>
+  </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# DevOps Team Lead
+- company: IBM
+  position: Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product.
+  duration:  Jan, 2019 &mdash; Oct, 2022
+  summary: Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product.
 
 
 # Communications Coordinator
