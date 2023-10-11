@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Sian O'Briain"
-resume_title:                   "DevOps Team & Technical Lead"
+resume_title:                   "DevOps Engineer & Technical Lead"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "sian.devops@gmail.com"
