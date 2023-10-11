@@ -6,22 +6,47 @@
   summary: |
     Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product for both on-prem and cloud. Notable Projects...
     <ul class="resume-item-list">
-      <li>Set up our infrastructure on Azure - resource groups, vpn, vnets, app gateway, Virtual Machines, AKS, ARO.</li>
-      <li>Test Execution Framework that runs junit tests in parallel via Kubernetes. Incorporating Kafka and Tekton.</li>
-      <li>RTC migration to Git / GitHub + JIRA</li>
-      <li>Zenhub migration to GitHub Projects</li>
-      <li>Travis CI to Github Workflows (Actions)</li>
+    <li>Infrastructure set up on Azure - resource groups, vpn, vnets, app gateway, Virtual Machines, AKS, ARO.</li>
+    <li>Test Execution Framework that runs junit tests in parallel via Kubernetes. Incorporating Kafka and Tekton.</li>
+    <li>RTC migration to Git / GitHub + JIRA</li>
+    <li>Zenhub migration to GitHub Projects</li>
+    <li>Travis CI to Github Workflows (Actions)</li>
     </ul>
 
 # DevOps Team Lead
 - company: IBM
-  position: Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product.
+  position: DevOps Team Lead
   duration:  Jan, 2019 &mdash; Oct, 2022
   summary: Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# DevOps Engineer
+- company: IBM
+  position: DevOps Engineer
+  duration:  Jul, 2014 &mdash; Jan, 2019
+  summary: Designed, implemented, maintained CI/CD pipelines and infrastructure as code. Tools / technologies used included Chef, Jenkins (Declarative Pipeline scripting), Docker, Source Code Migration ClearCase -> RTC), VM Maintenance & Compliance, RTC, ClearCase, Automation and scripting (Python,Groovy,Bash,Batch,Powershell), Developer support, Linux, Windows, macOS
+
+# WebDev & Lab Demonstrator
+- company: Maynooth University
+  position: Web Developer (Intern) & Lab Demonstrator
+  duration:  Jul, 2014 &mdash; Jan, 2019
+  summary: Designed and developed multiple websites using Drupal (PHP, mySQL, Apache, Linux). Providing various tutorials and presentations on Content Management Systems.
+
+# Data Manager
+- company: Sásta Surveys Ltd
+  position: Data Manager
+  duration:  Sep, 2007 &mdash; Dec, 2012
+  summary: Survey design, analysis and reporting for a diverse range of clients including the Hospitality Industry, Non-Profit and Education Sectors. Competence with tools such as SQL Reporting Services, SelectSurveys.net and Excel. SQL Server Database Maintenance. Direct contact with clients and vendors. Providing training for all new hires and short term staff.
+
+
+# DB Clerk
+- company: Conduit PLC
+  position: Database Clerk
+  duration:  2002 &mdash; 2007
+  summary: Updating and maintaining the database used for directory enquiries which involved data analysis for better performance, SQL scripting and stored procedures, dealing with errors and internal/external complaints. Communication with customers via phone, letter and email on a daily basis.
+
+# CSR
+- company: Conduit PLC
+  position: Customer Service Representative
+  duration:  2000 &mdash; Jan, 2002
+  summary: Answering large volumes of calls for directory enquiries, constant training in customer service. This included topics such as dealing with difficult callers and understanding data protection laws etc.
