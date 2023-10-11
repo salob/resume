@@ -19,9 +19,6 @@
   duration:  Jan, 2019 &mdash; Oct, 2022
   summary: Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product.
 
-
-# DevOps Engineer
-- company: IBM
   position: DevOps Engineer
   duration:  Jul, 2014 &mdash; Jan, 2019
   summary: Designed, implemented, maintained CI/CD pipelines and infrastructure as code. Tools / technologies used included Chef, Jenkins (Declarative Pipeline scripting), Docker, Source Code Migration ClearCase -> RTC), VM Maintenance & Compliance, RTC, ClearCase, Automation and scripting (Python,Groovy,Bash,Batch,Powershell), Developer support, Linux, Windows, macOS
