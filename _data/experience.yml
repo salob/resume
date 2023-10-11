@@ -26,25 +26,25 @@
 
 # WebDev & Lab Demonstrator
 - company: Maynooth University
-  position: Web Developer (Intern) & Lab Demonstrator
-  duration:  Jul, 2014 &mdash; Jan, 2019
-  summary: Designed and developed multiple websites using Drupal (PHP, mySQL, Apache, Linux). Providing various tutorials and presentations on Content Management Systems.
+  roles:
+  - position: Web Developer (Intern) & Lab Demonstrator
+    duration:  Jul, 2014 &mdash; Jan, 2019
+    summary: Designed and developed multiple websites using Drupal (PHP, mySQL, Apache, Linux). Providing various tutorials and presentations on Content Management Systems.
 
 # Data Manager
 - company: Sásta Surveys Ltd
-  position: Data Manager
-  duration:  Sep, 2007 &mdash; Dec, 2012
-  summary: Survey design, analysis and reporting for a diverse range of clients including the Hospitality Industry, Non-Profit and Education Sectors. Competence with tools such as SQL Reporting Services, SelectSurveys.net and Excel. SQL Server Database Maintenance. Direct contact with clients and vendors. Providing training for all new hires and short term staff.
+  roles:
+  - position: Data Manager
+    duration:  Sep, 2007 &mdash; Dec, 2012
+    summary: Survey design, analysis and reporting for a diverse range of clients including the Hospitality Industry, Non-Profit and Education Sectors. Competence with tools such as SQL Reporting Services, SelectSurveys.net and Excel. SQL Server Database Maintenance. Direct contact with clients and vendors. Providing training for all new hires and short term staff.
 
 
-# DB Clerk
+# Conduit
 - company: Conduit PLC
-  position: Database Clerk
-  duration:  2002 &mdash; 2007
-  summary: Updating and maintaining the database used for directory enquiries which involved data analysis for better performance, SQL scripting and stored procedures, dealing with errors and internal/external complaints. Communication with customers via phone, letter and email on a daily basis.
-
-# CSR
-- company: Conduit PLC
-  position: Customer Service Representative
-  duration:  2000 &mdash; Jan, 2002
-  summary: Answering large volumes of calls for directory enquiries, constant training in customer service. This included topics such as dealing with difficult callers and understanding data protection laws etc.
+  roles:
+  - position: Database Clerk
+    duration:  2002 &mdash; 2007
+    summary: Updating and maintaining the database used for directory enquiries which involved data analysis for better performance, SQL scripting and stored procedures, dealing with errors and internal/external complaints. Communication with customers via phone, letter and email on a daily basis.
+  - position: Customer Service Representative
+    duration:  2000 &mdash; Jan, 2002
+    summary: Answering large volumes of calls for directory enquiries, constant training in customer service. This included topics such as dealing with difficult callers and understanding data protection laws etc.
