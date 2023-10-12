@@ -1,3 +1,7 @@
+# GitHub Pages Site Live!
+
+https://salob.github.io/resume/
+
 # Resume template
 
 *A simple Jekyll + GitHub Pages powered resume template.*
