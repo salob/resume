@@ -56,7 +56,7 @@
         <h2>Experience</h2>
       </header>
 
-      {% for job in site.data.experience_short %}
+      {% for job in site.data.experience %}
       <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
         <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
         {% for role in job.roles %}
@@ -79,7 +79,7 @@
         <h2>Education</h2>
       </header>
 
-      {% for education in site.data.education_short %}
+      {% for education in site.data.education %}
       <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
         <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
         <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}
@@ -100,7 +100,7 @@
     <!-- end Education -->
     {% endif %}
 
-    <!--
+
     {% if site.resume_section_projects %}
     <!-- begin Projects -->
     <section class="content-section">
@@ -121,7 +121,7 @@
     </section>
     <!-- end Projects -->
     {% endif %}
-    -->
+
     {% if site.resume_section_skills %}
     <!-- begin Skills -->
     <section class="content-section">
@@ -148,7 +148,7 @@
         <h2>Certs and Awards</h2>
       </header>
 
-      {% for recognition in site.data.recognitions_short %}
+      {% for recognition in site.data.recognitions %}
       <div class="resume-item">
         <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
         <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>

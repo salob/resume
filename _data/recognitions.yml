@@ -1,10 +1,60 @@
-# Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+# Recognitions & Awards
+- award: Advanced Agile - The Team's Mindset
+  organization: LinkedIn Learning
+  year: 2023
+  summary: Covers the history of agile thinking, and shows how you can be a leading voice for embracing a more agile mindset in your organization.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Learning Kubernetes
+  organization: LinkedIn Learning
+  year: 2023
+  summary: Kubernetes Basics course - create a Kubernetes cluster with Minikube, deploy a containerized application, and manage that application using Kubernetes
+
+- award: Microsoft Certified - Azure Fundamentals
+  organization: Microsoft
+  year: 2022
+  summary: Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.
+
+- award: Build Your Own Chatbot
+  organization: IBM
+  year: 2021
+  summary: The badge earner has demonstrated an understanding of the creation of Chatbots by leveraging Watson Conversation and their deployment on WordPress.
+
+- award: IBM Agile Advocate
+  organization: IBM
+  year: 2020
+  summary: The Agile Advocate has the capability to discuss Agile values and principles and has begun applying the Agile practices to their daily activities. They hold stand-ups, conduct retrospectives, and can visualize their wall of work. They know the different Agile roles and understand how they interact together to bring continual value to their customers.
+
+- award: Certified Scrum Master
+  organization: Scrum Alliance
+  year: 2018
+  summary: Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.
+
+- award: Best 3rd Year Team - NUIM Programathon
+  organization: Maynooth University
+  year: 2013
+  summary: Best 3rd year team in a University programming challenge
+
+- award: ICEP Best Paper
+  organization: The International Conference on Engaging Pedagogy (ICEP)
+  year: 2013
+  summary: Lead author for a paper on the industrial placement experience
+
+- award: IEEEXtreme 24 Hour Programming Competition Participant
+  organization: IEEEXtreme
+  year: 2012, 2013
+  summary: IEEEXtreme is a global challenge in which teams of IEEE Student members – advised and proctored by an IEEE member, and often supported by an IEEE Student Branch – compete in a 24-hour time span against each other to solve a set of programming problems.
+
+- award: Data Structures & Algorithms Winner
+  organization: Maynooth University
+  year: 2012
+  summary: 1st place in a travelling salesman problem (TSP) programming competition
+
+- award: The Lennon Prize – Dept. of Mathematics and Statistics
+  organization: Maynooth University
+  year: 2011
+  summary: This prize is awarded to the student obtaining the best result in Mathematical studies in the first year examinations.
+
+- award: Prize for best 1st Year Computer Science
+  organization: Maynooth University
+  year: 2011
+  summary: This prize is awarded to the student obtaining the best result in Computer Science in the first year examinations.

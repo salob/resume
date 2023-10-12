@@ -20,10 +20,10 @@ resume_contact_email:           "sian.devops@gmail.com"
 resume_contact_telephone:       "555-7334"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:    <a href="/resume.html">Resume (Short)</a> - <a href="/cv.html">Resume (Long)</a>
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>With over 8 years of experience in DevOps, including 4 years as a team and technical lead, I have a passion for automation, problem solving and streamlining software development processes. I am a proficient user of various DevOps tools and technologies, such as Ansible, Jenkins, GitHub Actions, Docker, Kubernetes and Azure. I am also a Certified ScrumMaster (CSM) and proficient in agile methodologies and cross-team collaboration.</p>"
+resume_header_intro: "<p>With over 8 years of experience in DevOps, including 4 years as a team and technical lead, I have a passion for automation, problem solving and streamlining software development processes. I am an experienced user of various DevOps tools and technologies, such as Ansible, Jenkins, GitHub Actions, Docker, Kubernetes and Azure. I am also a Certified ScrumMaster (CSM) and proficient in agile methodologies and cross-team collaboration.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -35,12 +35,12 @@ resume_header_intro: "<p>With over 8 years of experience in DevOps, including 4 
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
+# resume_section_projects:        false
 resume_section_skills:          true
 resume_section_recognition:     true
-resume_section_links:           true
+# resume_section_links:           false
 resume_section_associations:    true
-# resume_section_interests:       true
+# resume_section_interests:       false
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL

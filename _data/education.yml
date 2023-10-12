@@ -3,4 +3,21 @@
   uni: Maynooth University
   year: 2010 &mdash; 2014
   award: 1st Class Honours
-  # summary: If you had any meaningful roles at college, feel free to write about them here
+  summary: |
+    Projects:
+    <ul class="resume-item-list">
+    <li>Final Year Project - Evolving Digitally Blended Images</li>
+    <li>3rd Year Team Project - Web application for people suffering with diabetes</li>
+    <li>Student Accommodation Website</li>
+    <li>Maynooth Day Nursery Website</li>
+    <li>CMS for Community Websites</li>
+    <li>Directed Reading - Randomness: an investigation into the generation of random numbers</li>
+    </ul>  
+- uni: Open University
+  year: 1999 &mdash; 2000
+  summary: |
+    Courses:
+    <ul class="resume-item-list">
+    <li>Putting Computer Systems to Work</li>
+    <li>Computing: An Object-Oriented Approach</li>
+    </ul>  

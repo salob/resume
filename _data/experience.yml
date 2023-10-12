@@ -19,11 +19,20 @@
   roles:
   - position: DevOps Team Lead
     duration:  Jan, 2019 &mdash; Oct, 2022
-    summary: Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product.
+    summary: |
+      Hands-on leadership role responsible for design, planning and co-ordinating the day-to-day activities of the DevOps team that supports the Cúram product. Notable Projects...
+      <ul class="resume-item-list">
+      <li>Open Source -Initated a new project that provides Ansible collections for instaling and configuring middleware for the Cúram product</li>
+      <li>Fluxy - React Application with multiple Spring Boot backend services (connected to a mongoDB) that provides a deployment dashboard, traceability reports and a self-service deployment (both full vm and containerized) provisioning service.</li>
+      </ul>      
   - position: DevOps Engineer
     duration:  Jul, 2014 &mdash; Jan, 2019
-    summary: Designed, implemented, maintained CI/CD pipelines and infrastructure as code. Tools / technologies used included Chef, Jenkins (Declarative Pipeline scripting), Docker, Source Code Migration ClearCase -> RTC), VM Maintenance & Compliance, RTC, ClearCase, Automation and scripting (Python,Groovy,Bash,Batch,Powershell), Developer support, Linux, Windows, macOS
-
+    summary: |
+      Designed, implemented, maintained CI/CD pipelines and infrastructure as code. Tools / technologies used included Chef, Jenkins (Declarative Pipeline scripting), Docker, Source Code Migration ClearCase -> RTC), VM Maintenance & Compliance, RTC, ClearCase, Automation and scripting (Python,Groovy,Bash,Batch,Powershell), Developer support, Linux, Windows, macOS
+      <ul class="resume-item-list">
+      <li>Automated Slack Notifications using incoming WebHook integration with RTC OSLC-CM Rest API</li>
+      <li>Source Code Migration from Rational ClearCase to Rational Team Concert</li>      
+      </ul>  
 # WebDev & Lab Demonstrator
 - company: Maynooth University
   roles:

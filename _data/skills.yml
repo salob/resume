@@ -1,12 +1,9 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Project Management
+- skill: Agile and Project Management
+  description: Roadmap Planning | Backlog Refinement & Prioritization | Cost management & Budgeting | Certified Scrum Master | Agile Ceremonies | Scoping & Sizing 
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Technical
+- skill: Technical
+  description: Infrastructure as Code | Configuration Management | DevOps | CI/CD | Containerization & Orchestration
